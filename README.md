@@ -1,4 +1,4 @@
-# Api для [нейросетей](https://github.com/Emilikan/neuronets_dh_hack)
+# Api для [нейросетей](https://github.com/Emilikan/neuronets_dh_hack) к хакатону DH_Hack
 Написан на:
 - python3
 - библиотека [bottle](https://github.com/Emilikan/dh_hach_api/blob/master/bottle.py)
